@@ -1,4 +1,4 @@
-Program 1: Balanced Parentheses Validation
+Documentation for Program 1: Balanced Parentheses Validation
 Objective: This program utilizes a Stack data structure to determine if mathematical expressions contain properly balanced and nested brackets.
 
 (a) Data Structure Definition
