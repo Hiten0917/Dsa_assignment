@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Assignment Overview: Data Structures and Algorithms (COMP202)
 Subject Code: COMP202 Assignment Number: #2 Programming Assignments Date: December 2025
 
@@ -40,3 +41,7 @@ Objective: Generate N random integers between 1 and 1000.
 Sorting Options: Bubble Sort, Selection Sort, Insertion Sort, and Merge Sort.
 
 Metrics: Print numbers before/after sorting and display the total number of comparisons and swaps performed.
+=======
+# Dsa_assignment
+Assignment #2 Programming Assignments
+>>>>>>> 9fb99bae0f5e6c8887c7cf02130676e6f81f0002
